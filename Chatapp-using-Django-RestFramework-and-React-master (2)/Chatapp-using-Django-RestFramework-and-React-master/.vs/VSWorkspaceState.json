@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\api",
+    "\\frontend",
+    "\\templates",
+    "\\templates\\Authentication",
+    "\\templates\\Chat",
+    "\\templates\\To-do"
+  ],
+  "SelectedNode": "\\backend\\manage.py",
+  "PreviewInSolutionExplorer": false
+}
